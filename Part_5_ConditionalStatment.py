@@ -20,7 +20,7 @@ print(num1>num2)
 
 '''
  > < =
- Conparable Operator
+ Con
 '''
 if num1 == num2:
     print("They are equal")
